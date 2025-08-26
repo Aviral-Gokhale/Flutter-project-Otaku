@@ -1,16 +1,16 @@
-# firebase_demo1
 
-A new Flutter project.
+# Otaku
 
-## Getting Started
+This is a flutter based android application to read comic books.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Light/dark mode toggle
+- Design your own readlist
+- Fullscreen mode
+- Search books according to name and genre
+- Google sign-in
+- Offline mode: save and download the books to read later
+
